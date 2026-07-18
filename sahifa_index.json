@@ -1,0 +1,24 @@
+{
+  "book_title": "Sahifa Sajjadiya (As-Sahifa Al-Kamilah Al-Sajjadiyya)",
+  "author": "Imam Ali ibn al-Husayn, Zayn al-Abidin (a.s.)",
+  "status": "INDEX ONLY — full Arabic text of each dua to be added one-by-one, cross-verified, same careful process used for Ziyarat Ashura",
+  "source": "https://al-islam.org/sahifa-al-kamilah-al-sajjadiyya-imam-ali-zayn-al-abidin",
+  "duas": [
+    {"id": 1, "title": "In Praise of God"},
+    {"id": 2, "title": "Blessing upon Muhammad and his Household"},
+    {"id": 3, "title": "Blessing upon the Bearers of the Throne"},
+    {"id": 4, "title": "Blessing upon the Attesters to the Messengers"},
+    {"id": 5, "title": "His Supplication for himself and the People under his Guardianship"},
+    {"id": 6, "title": "His Supplication in the Morning and Evening"},
+    {"id": 7, "title": "His Supplication in Worrisome Tasks"},
+    {"id": 8, "title": "His Supplication in Seeking Refuge"},
+    {"id": 9, "title": "His Supplication in Yearning"},
+    {"id": 10, "title": "His Supplication in Seeking Asylum with God"},
+    {"id": 11, "title": "His Supplication for Good Outcomes"},
+    {"id": 12, "title": "His Supplication in Confession"},
+    {"id": 13, "title": "His Supplication in Seeking Needs from God"},
+    {"id": 14, "title": "His Supplication in Suffering Acts of Wrongdoing"}
+  ],
+  "note": "Only duas 1-14 confirmed from search so far — duas 15-54 titles need one more fetch to complete the list (al-islam.org table of contents page). Ask Claude to continue and it will fetch the rest.",
+  "next_step": "Upload this file to GitHub as 'sahifa_index.json'. Then we add full verified Arabic text for Dua 1, test it in the app, and repeat for each dua."
+}
