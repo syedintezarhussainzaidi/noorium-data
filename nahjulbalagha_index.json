@@ -1,0 +1,29 @@
+{
+  "book_title": "Nahj al-Balagha (The Peak of Eloquence)",
+  "compiler": "al-Sharif al-Radi",
+  "attributed_to": "Imam Ali ibn Abi Talib (a.s)",
+  "status": "STRUCTURE INDEX ONLY (well-established 3-part division) — individual sermon/letter/saying full text NOT yet added, to be fetched and verified one at a time via Thaqalayn API (bookId: Nahj-al-Balagha-Radi, translator: Sayed Ali Raza)",
+  "source_for_fulltext": "https://www.thaqalayn-api.net/api/v2/Nahj-al-Balagha-Radi/{id}",
+  "copyright_note": "Arabic text is public domain (11th century classical text). Translator Sayed Ali Raza's English translation should be checked for licensing before including verbatim; safest to display Arabic primarily, as agreed for Sahifa/Ziyarat.",
+  "parts": [
+    {
+      "part": 1,
+      "title": "Sermons (Khutab)",
+      "count": 241,
+      "note": "Includes famous sermons such as Khutbat al-Shiqshiqiyya (Sermon 3), Khutbat al-Ashbah (Sermon 91)."
+    },
+    {
+      "part": 2,
+      "title": "Letters (Rasa'il)",
+      "count": 79,
+      "note": "Includes the famous letter to Malik al-Ashtar (Letter 53) on governance and justice."
+    },
+    {
+      "part": 3,
+      "title": "Sayings (Hikam / Short Maxims)",
+      "count": 480,
+      "note": "Short wisdom sayings, often quoted individually."
+    }
+  ],
+  "next_step": "Pick specific sermons/letters/sayings to fetch full verified Arabic (and optionally English) text one at a time from the Thaqalayn API, same pattern as Sahifa Sajjadiya duas."
+}
