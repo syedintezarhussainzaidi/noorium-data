@@ -1,7 +1,7 @@
 {
  "book_title": "Sahifa Sajjadiya (As-Sahifa Al-Kamilah Al-Sajjadiyya)",
  "author": "Imam Ali ibn al-Husayn, Zayn al-Abidin (a.s.)",
- "status": "IN PROGRESS — full verified Arabic text added for Dua 1-30 (30 of 54). Arabic only; translations deferred pending a licensing decision.",
+ "status": "COMPLETE — full verified Arabic text for all 54 supplications. Arabic only; English/Urdu translations deferred pending a licensing decision (common English = Chittick / Muhammadi Trust 1988, all rights reserved).",
  "source": "https://al-islam.org/sahifa-al-kamilah-al-sajjadiyya-imam-ali-zayn-al-abidin/supplications",
  "duas": [
   {
@@ -221,5 +221,5 @@
    "title": "His Supplication for the Removal of Worries"
   }
  ],
- "next_step": "Continue adding verified Arabic for Dua 31-54 one at a time. Note: source pages for Dua 42, 44, 45, 47 (Ramadan / Arafah supplications) use a different HTML layout and need a separate parser."
+ "next_step": "All 54 done. Dua 1-19 sourced from al-islam.org, 20-25 from duas.org, 26-30 from duas.org (phrase blocks), 31-54 from al-islam.org (clause blockquotes consolidated to verse level). Optional future work: add Arabic dua NAMES to the list screen, and translations once licensing is settled."
 }
