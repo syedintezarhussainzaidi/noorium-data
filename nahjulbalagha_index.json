@@ -1,29 +1,33 @@
 {
   "book_title": "Nahj al-Balagha (The Peak of Eloquence)",
-  "compiler": "al-Sharif al-Radi",
+  "compiler": "al-Sharif al-Radi (Muhammad ibn al-Husayn, d. 406 AH)",
   "attributed_to": "Imam Ali ibn Abi Talib (a.s)",
-  "status": "STRUCTURE INDEX ONLY (well-established 3-part division) — individual sermon/letter/saying full text NOT yet added, to be fetched and verified one at a time via Thaqalayn API (bookId: Nahj-al-Balagha-Radi, translator: Sayed Ali Raza)",
-  "source_for_fulltext": "https://www.thaqalayn-api.net/api/v2/Nahj-al-Balagha-Radi/{id}",
-  "copyright_note": "Arabic text is public domain (11th century classical text). Translator Sayed Ali Raza's English translation should be checked for licensing before including verbatim; safest to display Arabic primarily, as agreed for Sahifa/Ziyarat.",
+  "status": "COMPLETE ARABIC TEXT — sermons, letters, and sayings all present.",
+  "source": "OpenITI (Open Islamicate Texts Initiative) corpus 0406SharifRadi.NahjBalagha.Shia20200618-ara1, Muhammad Abduh recension. CC-BY 4.0.",
+  "license": "CC-BY 4.0 (OpenITI). Underlying 11th-century Arabic text is itself public domain; attribute OpenITI when redistributing.",
+  "numbering_note": "This edition's item counts (240 sermons / 77 letters / 469 sayings) follow the Abduh recension exactly as OpenITI transcribed it. The more commonly cited Subhi al-Salih edition (used by thaqalayn.net, al-islam.org) numbers these slightly differently (241 / 79 / 480) because a handful of items are split or merged differently between the two recensions. Sermon/letter/saying NUMBERS in Noorium are therefore Abduh-edition numbers, not necessarily identical to the number the same passage carries elsewhere — the well-known items (e.g. Sermon 3 = Khutbat al-Shiqshiqiyya, Letter 53 = to Malik al-Ashtar) land at the same or a very close number in both editions.",
   "parts": [
     {
       "part": 1,
       "title": "Sermons (Khutab)",
-      "count": 241,
-      "note": "Includes famous sermons such as Khutbat al-Shiqshiqiyya (Sermon 3), Khutbat al-Ashbah (Sermon 91)."
+      "file": "nahj_sermons.json",
+      "count": 240,
+      "note": "Includes Khutbat al-Shiqshiqiyya (Sermon 3)."
     },
     {
       "part": 2,
-      "title": "Letters (Rasa'il)",
-      "count": 79,
-      "note": "Includes the famous letter to Malik al-Ashtar (Letter 53) on governance and justice."
+      "title": "Letters (Rasa’il)",
+      "file": "nahj_letters.json",
+      "count": 77,
+      "note": "Includes the letter to Malik al-Ashtar on governance and justice (Letter 53)."
     },
     {
       "part": 3,
       "title": "Sayings (Hikam / Short Maxims)",
-      "count": 480,
+      "file": "nahj_sayings.json",
+      "count": 469,
       "note": "Short wisdom sayings, often quoted individually."
     }
   ],
-  "next_step": "Pick specific sermons/letters/sayings to fetch full verified Arabic (and optionally English) text one at a time from the Thaqalayn API, same pattern as Sahifa Sajjadiya duas."
+  "translation_note": "Arabic only for now. Nahj al-Balagha English (al-islam.org, Sayed Ali Reza / Ahmed Ali) needs a quick licence confirm before adding; Urdu translations (Mufti Jafar Hussain / Zeeshan Jawadi) are copyrighted and are NOT included."
 }
