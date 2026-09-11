@@ -1,0 +1,130 @@
+{
+  "book_title": "Man la Yahduruhu al-Faqih",
+  "compiler": "Shaykh al-Saduq, Muhammad ibn Ali ibn al-Husayn ibn Babawayh al-Qummi (d. 381 AH)",
+  "status": "COMPLETE ARABIC TEXT — all books/chapters present.",
+  "source": "OpenITI corpus 0381IbnBabawayhSaduq.ManLaYahduruhuFaqih.Shia001149Vols-ara1 (ed. Ali Akbar al-Ghaffari). CC-BY 4.0.",
+  "license": "CC-BY 4.0 (OpenITI). Underlying 10th-century Arabic text is itself public domain; attribute OpenITI when redistributing.",
+  "structure_note": "One of the Four Books (al-Kutub al-Arba'a) of Twelver hadith. The author deliberately dropped full chains of transmission for readability (see his own introduction) — what's kept here is exactly what he kept. Organised as 17 books (kutub), each split into chapters (abwab), each chapter holding its hadiths as consecutive entries (no separate hadith numbering was reliably recoverable from this transcription, so a chapter's 'arabic' array is its hadiths in original order, not individually numbered). The book-level split for Sawm/Hajj (and one small 4-chapter block on major sins folded into Hudud) was reconstructed 11 Sep 2026 from internal chapter-title evidence, since this transcription's own book headings were incomplete at those exact points — the surrounding chapters (fasting → i'tikaf → virtues of Hajj → Hajj rites, etc.) make the boundaries unambiguous.",
+  "parts": [
+    {
+      "part": 0,
+      "title_ar": "Muqaddima (Introduction)",
+      "title_en": "Introduction (Muqaddima)",
+      "file": "faqih_muqaddima.json",
+      "count": 1
+    },
+    {
+      "part": 1,
+      "title_ar": "كتاب الطهارة",
+      "title_en": "Purification (Tahara)",
+      "file": "faqih_tahara.json",
+      "count": 27
+    },
+    {
+      "part": 2,
+      "title_ar": "أبواب الصلاة وحدودها",
+      "title_en": "Prayer (Salah)",
+      "file": "faqih_salah.json",
+      "count": 59
+    },
+    {
+      "part": 3,
+      "title_ar": "أبواب الزكاة",
+      "title_en": "Zakat",
+      "file": "faqih_zakat.json",
+      "count": 20
+    },
+    {
+      "part": 4,
+      "title_ar": "كتاب الصوم",
+      "title_en": "Fasting (Sawm)",
+      "file": "faqih_sawm.json",
+      "count": 40
+    },
+    {
+      "part": 5,
+      "title_ar": "كتاب الحج",
+      "title_en": "Hajj",
+      "file": "faqih_hajj.json",
+      "count": 165
+    },
+    {
+      "part": 6,
+      "title_ar": "أبواب القضايا والأحكام",
+      "title_en": "Judgments (Qadaya wal-Ahkam)",
+      "file": "faqih_qadaya.json",
+      "count": 57
+    },
+    {
+      "part": 7,
+      "title_ar": "(كتاب المعيشة)",
+      "title_en": "Livelihood (Ma’ayish)",
+      "file": "faqih_ma_ayish.json",
+      "count": 37
+    },
+    {
+      "part": 8,
+      "title_ar": "كتاب الأيمان والنذور والكفارات",
+      "title_en": "Oaths, Vows & Atonements",
+      "file": "faqih_ayman_nudhur.json",
+      "count": 1
+    },
+    {
+      "part": 9,
+      "title_ar": "(كتاب النكاح)",
+      "title_en": "Marriage (Nikah)",
+      "file": "faqih_nikah.json",
+      "count": 44
+    },
+    {
+      "part": 10,
+      "title_ar": "كتاب المولود (أحكام الأولاد والرضاع)",
+      "title_en": "The Newborn (Mawlud)",
+      "file": "faqih_mawlud.json",
+      "count": 8
+    },
+    {
+      "part": 11,
+      "title_ar": "(كتاب الطلاق)",
+      "title_en": "Divorce (Talaq)",
+      "file": "faqih_talaq.json",
+      "count": 25
+    },
+    {
+      "part": 12,
+      "title_ar": "(كتاب الحدود)",
+      "title_en": "Prescribed Punishments (Hudud)",
+      "file": "faqih_hudud.json",
+      "count": 17
+    },
+    {
+      "part": 13,
+      "title_ar": "(كتاب الديات)",
+      "title_en": "Blood Money (Diyat)",
+      "file": "faqih_diyat.json",
+      "count": 53
+    },
+    {
+      "part": 14,
+      "title_ar": "كتاب الوصايا",
+      "title_en": "Wills (Wasaya)",
+      "file": "faqih_wasaya.json",
+      "count": 56
+    },
+    {
+      "part": 15,
+      "title_ar": "كتاب الوقف والصدقة والنحل",
+      "title_en": "Endowments & Gifts (Waqf)",
+      "file": "faqih_waqf.json",
+      "count": 2
+    },
+    {
+      "part": 16,
+      "title_ar": "كتاب الفرائض والمواريث",
+      "title_en": "Inheritance (Fara’id)",
+      "file": "faqih_fara_id.json",
+      "count": 47
+    }
+  ],
+  "translation_note": "Arabic only — no complete published English translation of this book exists; Urdu translations are copyrighted and are NOT included."
+}
