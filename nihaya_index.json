@@ -1,0 +1,164 @@
+{
+ "book_title": "Al-Nihayah",
+ "compiler": "Shaykh al-Tusi, Muhammad ibn al-Hasan (d. 460 AH / 1067 CE)",
+ "status": "COMPLETE ARABIC TEXT — all 22 books present.",
+ "source": "OpenITI corpus 0460ShaykhTusi.Nihaya.Shia000041-ara1. CC-BY 4.0.",
+ "license": "CC-BY 4.0 (OpenITI). Underlying 11th-century Arabic text is itself public domain; attribute OpenITI when redistributing.",
+ "structure_note": "Shaykh al-Tusi's independent fiqh compendium, organised as 22 books (kutub), each split into chapters (abwab). Chapter titles are truncated to their first ~7 words where the source transcription runs the heading straight into body text with no punctuation boundary — the full chapter text itself is untruncated.",
+ "parts": [
+  {
+   "part": 1,
+   "title_ar": "كتاب الطهارة",
+   "title_en": "Purification (Tahara)",
+   "file": "nihaya_tahara.json",
+   "count": 10
+  },
+  {
+   "part": 2,
+   "title_ar": "كتاب الصلاة",
+   "title_en": "Prayer (Salah)",
+   "file": "nihaya_salah.json",
+   "count": 24
+  },
+  {
+   "part": 3,
+   "title_ar": "كتاب الصيام",
+   "title_en": "Fasting (Sawm)",
+   "file": "nihaya_sawm.json",
+   "count": 10
+  },
+  {
+   "part": 4,
+   "title_ar": "كتاب الزكاة",
+   "title_en": "Zakat",
+   "file": "nihaya_zakat.json",
+   "count": 14
+  },
+  {
+   "part": 5,
+   "title_ar": "كتاب الحج",
+   "title_en": "Hajj",
+   "file": "nihaya_hajj.json",
+   "count": 21
+  },
+  {
+   "part": 6,
+   "title_ar": "كتاب الجهاد وسيرة الإمام",
+   "title_en": "Jihad and the Conduct of the Imam",
+   "file": "nihaya_jihad.json",
+   "count": 6
+  },
+  {
+   "part": 7,
+   "title_ar": "كتاب الديون والكفالات",
+   "title_en": "Debts and Suretyship (Duyun wa'l-Kafalat)",
+   "file": "nihaya_duyun.json",
+   "count": 10
+  },
+  {
+   "part": 8,
+   "title_ar": "كتاب الشهادات",
+   "title_en": "Testimonies (Shahadat)",
+   "file": "nihaya_shahadat.json",
+   "count": 7
+  },
+  {
+   "part": 9,
+   "title_ar": "كتاب القضايا والأحكام",
+   "title_en": "Judgeship and Rulings (Qadaya wa'l-Ahkam)",
+   "file": "nihaya_qadaya.json",
+   "count": 4
+  },
+  {
+   "part": 10,
+   "title_ar": "كتاب المكاسب",
+   "title_en": "Earnings (Makasib)",
+   "file": "nihaya_makasib.json",
+   "count": 4
+  },
+  {
+   "part": 11,
+   "title_ar": "كتاب المتاجر",
+   "title_en": "Trade (Matajir)",
+   "file": "nihaya_matajir.json",
+   "count": 19
+  },
+  {
+   "part": 12,
+   "title_ar": "كتاب النكاح",
+   "title_en": "Marriage (Nikah)",
+   "file": "nihaya_nikah.json",
+   "count": 13
+  },
+  {
+   "part": 13,
+   "title_ar": "كتاب الطلاق",
+   "title_en": "Divorce (Talaq)",
+   "file": "nihaya_talaq.json",
+   "count": 6
+  },
+  {
+   "part": 14,
+   "title_ar": "كتاب العتق والتدبير",
+   "title_en": "Manumission and Tadbir ('Itq wa'l-Tadbir)",
+   "file": "nihaya_itq.json",
+   "count": 6
+  },
+  {
+   "part": 15,
+   "title_ar": "كتاب الأيمان والنذور",
+   "title_en": "Oaths and Vows (Ayman wa'l-Nudhur)",
+   "file": "nihaya_ayman.json",
+   "count": 5
+  },
+  {
+   "part": 16,
+   "title_ar": "كتاب الصيد والذبائح",
+   "title_en": "Hunting and Slaughtering (Sayd wa'l-Dhaba'ih)",
+   "file": "nihaya_sayd.json",
+   "count": 4
+  },
+  {
+   "part": 17,
+   "title_ar": "كتاب الأطعمة والأشربة",
+   "title_en": "Foods and Drinks (At'ima wa'l-Ashriba)",
+   "file": "nihaya_atima.json",
+   "count": 3
+  },
+  {
+   "part": 18,
+   "title_ar": "كتاب الوقوف والصدقات",
+   "title_en": "Endowments and Charities (Waqf wa'l-Sadaqat)",
+   "file": "nihaya_waqf.json",
+   "count": 3
+  },
+  {
+   "part": 19,
+   "title_ar": "كتاب الوصايا",
+   "title_en": "Bequests (Wasaya)",
+   "file": "nihaya_wasaya.json",
+   "count": 6
+  },
+  {
+   "part": 20,
+   "title_ar": "كتاب المواريث",
+   "title_en": "Inheritance (Mawarith)",
+   "file": "nihaya_mawarith.json",
+   "count": 17
+  },
+  {
+   "part": 21,
+   "title_ar": "كتاب الحدود",
+   "title_en": "Legal Punishments (Hudud)",
+   "file": "nihaya_hudud.json",
+   "count": 11
+  },
+  {
+   "part": 22,
+   "title_ar": "كتاب الديات",
+   "title_en": "Blood Money (Diyat)",
+   "file": "nihaya_diyat.json",
+   "count": 11
+  }
+ ]
+}
