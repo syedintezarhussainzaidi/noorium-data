@@ -1,0 +1,101 @@
+{
+  "course": "usool_e_deen",
+  "path": "Ja'fari",
+  "lessons": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Tawhid (Oneness of Allah)",
+        "ur": "توحید (اللہ کی وحدانیت)",
+        "ar": "التوحيد (وحدانية الله)",
+        "fa": "توحید (یگانگی خداوند)",
+        "ro": "Tawhid (Allah ki Wahdaniyat)",
+        "id": "Tauhid (Keesaan Allah)"
+      },
+      "body": {
+        "en": "Allah is One — without partner, without equal, without division. He alone is worthy of worship. Everything that exists depends on Him; He depends on nothing.",
+        "ur": "اللہ ایک ہے — بغیر کسی شریک، بغیر کسی برابری، بغیر کسی تقسیم کے۔ صرف وہی عبادت کے لائق ہے۔ ہر موجود چیز اسی پر منحصر ہے؛ وہ کسی پر منحصر نہیں۔",
+        "ar": "الله واحد — لا شريك له، ولا نظير له، ولا انقسام فيه. هو وحده المستحق للعبادة. كل ما هو موجود يعتمد عليه؛ وهو لا يعتمد على شيء.",
+        "fa": "خداوند یکتاست — بدون شریک، بدون همتا، بدون تقسیم. تنها او سزاوار پرستش است. هر آنچه وجود دارد به او وابسته است؛ او به هیچ چیز وابسته نیست.",
+        "ro": "Allah aik hai — koi shareek nahi, koi barabar nahi, koi taqseem nahi. Sirf wohi ibadat ke laiq hai. Har mojood cheez usi par munhasir hai; wo kisi par munhasir nahi.",
+        "id": "Allah itu Esa — tanpa sekutu, tanpa tandingan, tanpa pembagian. Hanya Dia yang berhak disembah. Segala sesuatu yang ada bergantung kepada-Nya; Dia tidak bergantung kepada apa pun."
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Adl (Divine Justice)",
+        "ur": "عدل (الٰہی انصاف)",
+        "ar": "العدل (العدل الإلهي)",
+        "fa": "عدل (عدالت الهی)",
+        "ro": "Adl (Ilahi Insaf)",
+        "id": "Adil (Keadilan Ilahi)"
+      },
+      "body": {
+        "en": "Allah is perfectly just — He never wrongs anyone. Whatever He commands or permits is rooted in wisdom and justice, not arbitrary will. Human beings are given free will and are accountable for their choices.",
+        "ur": "اللہ کامل طور پر عادل ہے — وہ کبھی کسی پر ظلم نہیں کرتا۔ وہ جو کچھ حکم دیتا یا اجازت دیتا ہے، اس کی بنیاد حکمت اور انصاف پر ہے، من مانی مرضی پر نہیں۔ انسان کو آزاد مرضی دی گئی ہے اور وہ اپنے انتخاب کا ذمہ دار ہے۔",
+        "ar": "الله عادل تمام العدل — لا يظلم أحدًا أبدًا. كل ما يأمر به أو يأذن به متجذر في الحكمة والعدل، وليس إرادة عشوائية. مُنح الإنسان الإرادة الحرة وهو مسؤول عن اختياراته.",
+        "fa": "خداوند کاملاً عادل است — او هرگز به کسی ظلم نمی‌کند. هر آنچه فرمان می‌دهد یا اجازه می‌دهد ریشه در حکمت و عدالت دارد، نه اراده‌ای دلبخواهی. به انسان اراده آزاد داده شده و او در برابر انتخاب‌های خود مسئول است.",
+        "ro": "Allah kamil taur par adil hai — wo kabhi kisi par zulm nahi karta. Jo kuch wo hukum deta ya ijazat deta hai uski bunyad hikmat aur insaf par hai, mann-mani marzi par nahi. Insan ko azad marzi di gayi hai aur wo apne intikhab ka zimmedar hai.",
+        "id": "Allah Maha Adil secara sempurna — Dia tidak pernah menzalimi siapa pun. Apa pun yang Dia perintahkan atau izinkan berakar pada hikmah dan keadilan, bukan kehendak sewenang-wenang. Manusia diberi kehendak bebas dan bertanggung jawab atas pilihan mereka."
+      }
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Nubuwwah (Prophethood)",
+        "ur": "نبوت",
+        "ar": "النبوة",
+        "fa": "نبوت",
+        "ro": "Nubuwwah (Nabuwwat)",
+        "id": "Nubuwwah (Kenabian)"
+      },
+      "body": {
+        "en": "Allah sent prophets to guide humanity, from Adam (AS) to the final prophet, Muhammad (SAWW). Prophets are infallible in conveying the message — protected from error and sin in their role as messengers.",
+        "ur": "اللہ نے انسانیت کی رہنمائی کے لیے انبیاء بھیجے، آدم علیہ السلام سے لے کر آخری نبی محمد ﷺ تک۔ انبیاء پیغام پہنچانے میں معصوم ہیں — اپنے رسالت کے کردار میں غلطی اور گناہ سے محفوظ۔",
+        "ar": "أرسل الله الأنبياء لهداية البشرية، من آدم عليه السلام إلى النبي الأخير محمد ﷺ. الأنبياء معصومون في تبليغ الرسالة — محفوظون من الخطأ والذنب في دورهم كرسل.",
+        "fa": "خداوند پیامبران را برای هدایت بشریت فرستاد، از آدم (ع) تا آخرین پیامبر، محمد (ص). پیامبران در ابلاغ پیام معصوم‌اند — در نقش رسالت خود از خطا و گناه محفوظند.",
+        "ro": "Allah ne insaniyat ki hidayat ke liye anbiya bheje, Adam (AS) se le kar aakhri Nabi, Muhammad (SAWW) tak. Anbiya paigham pahunchane mein masoom hain — apne rasalat ke kirdar mein ghalti aur gunah se mahfooz.",
+        "id": "Allah mengutus para nabi untuk membimbing umat manusia, dari Adam (AS) hingga nabi terakhir, Muhammad (SAW). Para nabi maksum (terjaga dari kesalahan) dalam menyampaikan risalah — terlindungi dari kekeliruan dan dosa dalam peran mereka sebagai utusan."
+      }
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Imamah (Divinely-Appointed Leadership)",
+        "ur": "امامت (الٰہی طور پر مقرر کردہ قیادت)",
+        "ar": "الإمامة (القيادة المعينة إلهيًا)",
+        "fa": "امامت (رهبری منصوب الهی)",
+        "ro": "Imamah (Ilahi Muqarrar Qiyadat)",
+        "id": "Imamah (Kepemimpinan yang Ditunjuk Ilahi)"
+      },
+      "body": {
+        "en": "After the Prophet (SAWW), leadership of the Muslim community continued through twelve divinely-appointed Imams from the Prophet's household (Ahlul Bayt), beginning with Imam Ali (AS). The Imams are seen as authoritative guides in matters of faith and practice.",
+        "ur": "نبی ﷺ کے بعد، مسلم امت کی قیادت آپ کے اہلِ بیت میں سے بارہ الٰہی طور پر مقرر کردہ ائمہ کے ذریعے جاری رہی، جس کا آغاز امام علی علیہ السلام سے ہوا۔ ائمہ کو عقیدے اور عمل کے معاملات میں مستند رہنما تسلیم کیا جاتا ہے۔",
+        "ar": "بعد النبي ﷺ، استمرت قيادة الأمة الإسلامية عبر اثني عشر إمامًا معينًا إلهيًا من أهل بيت النبي، بدءًا بالإمام علي عليه السلام. يُنظر إلى الأئمة كمرجعية موثوقة في أمور العقيدة والعمل.",
+        "fa": "پس از پیامبر (ص)، رهبری امت اسلامی از طریق دوازده امام منصوب از سوی خداوند از اهل‌بیت پیامبر ادامه یافت، که با امام علی (ع) آغاز شد. ائمه به‌عنوان راهنمایان معتبر در امور عقیده و عمل شناخته می‌شوند.",
+        "ro": "Nabi (SAWW) ke baad, Muslim ummat ki qiyadat aap ke Ahlul Bayt mein se barah Ilahi taur par muqarrar kardah Imamon ke zariye jari rahi, jiska aaghaz Imam Ali (AS) se hua. Imamon ko aqeeday aur amal ke maamlon mein mustanad rehnuma tasleem kiya jata hai.",
+        "id": "Setelah Nabi (SAW), kepemimpinan umat Muslim berlanjut melalui dua belas Imam yang ditunjuk secara ilahi dari Ahlul Bait (keluarga) Nabi, dimulai dengan Imam Ali (AS). Para Imam dipandang sebagai pembimbing otoritatif dalam masalah akidah dan amal."
+      }
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Qiyamah (The Day of Judgment)",
+        "ur": "قیامت (روزِ آخرت)",
+        "ar": "القيامة (يوم الحساب)",
+        "fa": "قیامت (روز رستاخیز)",
+        "ro": "Qiyamah (Roz-e-Aakhirat)",
+        "id": "Kiamat (Hari Pembalasan)"
+      },
+      "body": {
+        "en": "Every soul will be resurrected and held accountable for their deeds. This life is a test; the next life is the true, lasting reward or consequence.",
+        "ur": "ہر روح دوبارہ زندہ کی جائے گی اور اپنے اعمال کا حساب دے گی۔ یہ زندگی ایک امتحان ہے؛ اگلی زندگی حقیقی اور دائمی اجر یا نتیجہ ہے۔",
+        "ar": "كل نفس ستُبعث وتُحاسب على أعمالها. هذه الحياة اختبار؛ والحياة الآخرة هي الجزاء الحقيقي الدائم أو العاقبة.",
+        "fa": "هر نفسی برانگیخته خواهد شد و در برابر اعمال خود پاسخگو خواهد بود. این زندگی آزمایشی است؛ زندگی بعدی پاداش یا پیامد واقعی و ماندگار است.",
+        "ro": "Har rooh dobara zinda ki jayegi aur apne amaal ka hisaab degi. Ye zindagi ek imtihaan hai; agli zindagi haqiqi aur daimi ajr ya nateeja hai.",
+        "id": "Setiap jiwa akan dibangkitkan dan dimintai pertanggungjawaban atas perbuatannya. Kehidupan ini adalah ujian; kehidupan berikutnya adalah balasan atau konsekuensi yang sejati dan abadi."
+      }
+    }
+  ]
+}

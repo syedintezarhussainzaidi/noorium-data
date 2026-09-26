@@ -1,0 +1,101 @@
+{
+  "course": "pillars_of_islam",
+  "path": "Hanafi,Maliki,Shafi'i,Hanbali",
+  "lessons": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Shahada (Testimony of Faith)",
+        "ur": "شہادت (کلمۂ ایمان)",
+        "ar": "الشهادة (كلمة التوحيد)",
+        "fa": "شهادت (کلمه توحید)",
+        "ro": "Shahada (Kalma-e-Iman)",
+        "id": "Syahadat (Kesaksian Iman)"
+      },
+      "body": {
+        "en": "Testifying that there is no god but Allah, and Muhammad (SAWW) is His messenger.",
+        "ur": "یہ گواہی دینا کہ اللہ کے سوا کوئی معبود نہیں، اور محمد ﷺ اس کے رسول ہیں۔",
+        "ar": "الشهادة أن لا إله إلا الله، وأن محمدًا ﷺ رسول الله.",
+        "fa": "گواهی دادن به اینکه هیچ معبودی جز الله نیست، و محمد (ص) فرستاده اوست.",
+        "ro": "Gawahi dena ke Allah ke siwa koi mabood nahi, aur Muhammad (SAWW) uske Rasool hain.",
+        "id": "Bersaksi bahwa tidak ada tuhan selain Allah, dan Muhammad (SAW) adalah utusan-Nya."
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Salat (Prayer)",
+        "ur": "نماز",
+        "ar": "الصلاة",
+        "fa": "نماز",
+        "ro": "Salat (Namaz)",
+        "id": "Salat"
+      },
+      "body": {
+        "en": "Performing the five daily prayers.",
+        "ur": "روزانہ پانچ نمازیں ادا کرنا۔",
+        "ar": "أداء الصلوات الخمس يوميًا.",
+        "fa": "به‌جا آوردن پنج نماز روزانه.",
+        "ro": "Rozana panch namazein ada karna.",
+        "id": "Melaksanakan shalat lima waktu sehari."
+      }
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Zakat (Almsgiving)",
+        "ur": "زکوٰۃ",
+        "ar": "الزكاة",
+        "fa": "زکات",
+        "ro": "Zakat",
+        "id": "Zakat"
+      },
+      "body": {
+        "en": "Obligatory almsgiving on wealth meeting certain conditions.",
+        "ur": "مخصوص شرائط پوری کرنے والی دولت پر واجب خیرات۔",
+        "ar": "الزكاة الواجبة على المال الذي يستوفي شروطًا معينة.",
+        "fa": "صدقه واجب بر دارایی‌ای که شرایط خاصی را داراست.",
+        "ro": "Mukhtasis shartein poori karne wali dolat par wajib khairaat.",
+        "id": "Sedekah wajib atas harta yang memenuhi syarat tertentu."
+      }
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Sawm (Fasting)",
+        "ur": "روزہ",
+        "ar": "الصوم",
+        "fa": "روزه",
+        "ro": "Sawm (Roza)",
+        "id": "Puasa (Sawm)"
+      },
+      "body": {
+        "en": "Fasting during the month of Ramadan.",
+        "ur": "رمضان کے مہینے میں روزہ رکھنا۔",
+        "ar": "الصيام في شهر رمضان.",
+        "fa": "روزه‌داری در ماه رمضان.",
+        "ro": "Ramzan ke mahine mein roza rakhna.",
+        "id": "Berpuasa pada bulan Ramadan."
+      }
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Hajj (Pilgrimage)",
+        "ur": "حج",
+        "ar": "الحج",
+        "fa": "حج",
+        "ro": "Hajj",
+        "id": "Haji"
+      },
+      "body": {
+        "en": "Pilgrimage to Makkah, once in a lifetime for those who are able.",
+        "ur": "استطاعت رکھنے والوں کے لیے زندگی میں ایک بار مکہ کا حج۔",
+        "ar": "الحج إلى مكة، مرة واحدة في العمر لمن استطاع إليه سبيلاً.",
+        "fa": "زیارت مکه، یک‌بار در طول زندگی برای کسانی که توانایی دارند.",
+        "ro": "Makkah ka Hajj, zindagi mein ek baar un logon ke liye jo istita'at rakhte hain.",
+        "id": "Berziarah ke Makkah, sekali seumur hidup bagi yang mampu."
+      }
+    }
+  ]
+}
